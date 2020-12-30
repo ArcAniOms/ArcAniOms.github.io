@@ -10,4 +10,4 @@
   - Mes connaissances
   - Mes réseaux sociaux 
 
-## Aucune licence. Mais merci de me créditer si vous prenez mon "code"
+## Aucune licence.
