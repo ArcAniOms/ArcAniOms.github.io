@@ -1,8 +1,8 @@
 # ArcAniOms.github.io
-Site créé par KiraS
+🌴Site créé par KiraS⛱
 # About-me | KiraS
 
-Se site est à propos de moi.
+🗞Se site est à propos de moi.📚
 
 ### Vous-pourrez savoir:
   - Mon parcours
