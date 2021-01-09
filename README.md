@@ -10,4 +10,4 @@
   - Mes connaissances
   - Mes réseaux sociaux 
 
-## Licence: (creativecommons)[https://creativecommons.org/licenses/by/3.0/]
+## Licence: <a href="https://creativecommons.org/licenses/by/3.0/">creativecommons</a>
